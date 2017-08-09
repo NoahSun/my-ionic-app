@@ -36193,7 +36193,7 @@ exports.AnonymousSubject = AnonymousSubject;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_app_app_root__ = __webpack_require__(54);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__components_app_app_root__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_app_menu_controller__ = __webpack_require__(24);
-/* unused harmony reexport MenuController */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_1__components_app_menu_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_action_sheet_action_sheet__ = __webpack_require__(56);
 /* unused harmony reexport ActionSheet */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_action_sheet_action_sheet_controller__ = __webpack_require__(110);
@@ -36412,7 +36412,7 @@ exports.AnonymousSubject = AnonymousSubject;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_108__platform_dom_controller__ = __webpack_require__(8);
 /* unused harmony reexport DomController */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_109__platform_platform__ = __webpack_require__(3);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_109__platform_platform__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_109__platform_platform__["a"]; });
 /* unused harmony reexport setupPlatform */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_110__tap_click_haptic__ = __webpack_require__(36);
 /* unused harmony reexport Haptic */
@@ -36421,7 +36421,7 @@ exports.AnonymousSubject = AnonymousSubject;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_112__navigation_ionic_page__ = __webpack_require__(246);
 /* unused harmony reexport IonicPage */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_113__navigation_nav_controller__ = __webpack_require__(21);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_113__navigation_nav_controller__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_113__navigation_nav_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_114__navigation_nav_controller_base__ = __webpack_require__(41);
 /* unused harmony reexport NavControllerBase */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_115__navigation_nav_params__ = __webpack_require__(13);

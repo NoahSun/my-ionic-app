@@ -12,10 +12,17 @@
   <p>
     Take a look at the <code>src/pages/</code> directory to add or change tabs, update any existing page or create new pages.
   </p>
-  <button ion-button="" block="" (click)="presentActionSheet()">
+  <p>
+    主键列表
+  </p>
+  <button ion-button="" small block="" (click)="presentActionSheet()">
     Show Action Sheet
   </button>
-  <button ion-button="" block="" (click)="showAlert()">
+  <hr />
+  <button ion-button="" small (click)="showAlert()">
     Show Alert
+  </button>
+  <button ion-button="" small (click)="showPromptAlert()">
+    Show Prompt Alert
   </button>
 </ion-content>
