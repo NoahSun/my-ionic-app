@@ -27,7 +27,7 @@ export class HomePage {
     this.menu.enable(true, 'menu1');
   }
 
-  presentActionSheet() {
+  /* presentActionSheet() {
     let actionSheet = this.actionSheetCtrl.create({
       title: "Modify your album",
       buttons: [
@@ -99,5 +99,5 @@ export class HomePage {
       ]
     });
     prompt.present();
-  }
+  } */
 }
